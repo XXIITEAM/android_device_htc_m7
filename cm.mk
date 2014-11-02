@@ -1,5 +1,5 @@
 # call the proprietary setup
-$(call inherit-product-if-exists, vendor/htc/m7ul/m7ul-vendor.mk)
+$(call inherit-product-if-exists, vendor/htc/m7/m7-vendor.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := m7
